@@ -1,9 +1,13 @@
 {
   "name": "weschemajs",
-	"version": "1.0.2",
+	"version": "1.1.11",
   "repository": {
     "url": "git://github.com/eziranetwork/weschemajs.git",
     "type": "git"
-  },
+	},
+	"scripts" : {
+		"push" : "./scripts/push.sh",
+		"pull" : "./scripts/pull.sh"
+	},
   "license": "MIT"
 }
