@@ -2,7 +2,7 @@
   "name": "weschemajs",
 	"version": "1.1.11",
   "repository": {
-    "url": "git://github.com/eziranetwork/weschemajs.git",
+    "url": "git://github.com/WeYouMe/weschemajs.git",
     "type": "git"
 	},
 	"scripts" : {
